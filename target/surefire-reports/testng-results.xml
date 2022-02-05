@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14235" started-at="2022-01-29T17:15:34Z" finished-at="2022-01-29T17:15:48Z">
+  <suite name="Suite" duration-ms="12890" started-at="2022-02-05T03:03:14Z" finished-at="2022-02-05T03:03:27Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14235" started-at="2022-01-29T17:15:34Z" finished-at="2022-01-29T17:15:48Z">
+    <test name="Test" duration-ms="12890" started-at="2022-02-05T03:03:14Z" finished-at="2022-02-05T03:03:27Z">
       <class name="testCase.TC003PayBillSprint">
-        <test-method status="PASS" signature="payBillSprint()[pri:2, instance:testCase.TC003PayBillSprint@3bf7ca37]" name="payBillSprint" duration-ms="2330" started-at="2022-01-29T12:15:46Z" finished-at="2022-01-29T12:15:48Z">
+        <test-method status="PASS" signature="payBillSprint()[pri:2, instance:testCase.TC003PayBillSprint@3bf7ca37]" name="payBillSprint" duration-ms="1995" started-at="2022-02-04T22:03:25Z" finished-at="2022-02-04T22:03:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- payBillSprint -->
       </class> <!-- testCase.TC003PayBillSprint -->
       <class name="testCase.TC002AddNewPayee">
-        <test-method status="PASS" signature="init()[pri:0, instance:testCase.TC002AddNewPayee@7c6908d7]" name="init" is-config="true" duration-ms="5979" started-at="2022-01-29T12:15:28Z" finished-at="2022-01-29T12:15:34Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:testCase.TC002AddNewPayee@7c6908d7]" name="init" is-config="true" duration-ms="5093" started-at="2022-02-04T22:03:09Z" finished-at="2022-02-04T22:03:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="AddPayee()[pri:1, instance:testCase.TC002AddNewPayee@7c6908d7]" name="AddPayee" duration-ms="2672" started-at="2022-01-29T12:15:43Z" finished-at="2022-01-29T12:15:45Z">
+        <test-method status="PASS" signature="AddPayee()[pri:1, instance:testCase.TC002AddNewPayee@7c6908d7]" name="AddPayee" duration-ms="2285" started-at="2022-02-04T22:03:23Z" finished-at="2022-02-04T22:03:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddPayee -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.TC002AddNewPayee@7c6908d7]" name="tearDown" is-config="true" duration-ms="1975" started-at="2022-01-29T12:15:48Z" finished-at="2022-01-29T12:15:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.TC002AddNewPayee@7c6908d7]" name="tearDown" is-config="true" duration-ms="1383" started-at="2022-02-04T22:03:27Z" finished-at="2022-02-04T22:03:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCase.TC002AddNewPayee -->
       <class name="testCase.TC001Login">
-        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testCase.TC001Login@3c9754d8]" name="verifyLogin" duration-ms="8018" started-at="2022-01-29T12:15:34Z" finished-at="2022-01-29T12:15:42Z">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testCase.TC001Login@3c9754d8]" name="verifyLogin" duration-ms="7641" started-at="2022-02-04T22:03:14Z" finished-at="2022-02-04T22:03:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->

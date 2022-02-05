@@ -12,6 +12,7 @@ testCase\TC003PayBillSprint.class
 utility\Utilities.class
 pagesClass\AccountSummaryPage.class
 pagesClass\PayBillsPage.class
+testCase\TC004.class
 pagesClass\LoginPage.class
 utility\MonitoringMail$SMTPAuthenticator.class
 utility\ExcelReader.class
